@@ -8,6 +8,8 @@ sites:
     url: https://integratedmodelling.org/modeler/
   - name: Data
     url: https://data.integratedmodelling.org/
+  - name: PeopleEA
+    url: https://peopleea.integratedmodelling.org/modeler/
 
 assignees:
   - euskalhenriko
