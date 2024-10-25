@@ -9,9 +9,9 @@ sites:
   - name: Chat
     url: https://chat.integratedmodelling.org/
   - name: Web
-    url: https://klab.integratedmodelling.org/modeler/
+    url: https://klab.integratedmodelling.org/
   - name: CKAN
-    url: https://data.integratedmodelling.org/modeler
+    url: https://data.integratedmodelling.org/
 
 assignees:
   - euskalhenriko
