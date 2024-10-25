@@ -1,7 +1,7 @@
 url: https://observ.integratedmodelling.org/modeler
-status: up
-code: 200
-responseTime: 864
-lastUpdated: 2024-10-25T11:28:42.610Z
+status: down
+code: 503
+responseTime: 607
+lastUpdated: 2024-10-25T11:35:41.534Z
 startTime: 2024-10-25T11:28:41.745Z
 generator: Upptime <https://github.com/upptime/upptime>
