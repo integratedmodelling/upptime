@@ -4,14 +4,14 @@ repo: upptime
 sites:
   - name: Hub
     url: https://integratedmodelling.org/hub/
-  - name: k.Explorer
-    url: https://integratedmodelling.org/modeler/
-  - name: Data
-    url: https://data.integratedmodelling.org/
-  - name: PeopleEA
-    url: https://peopleea.integratedmodelling.org/modeler/
-  - name: Observ
-    url: https://observ.integratedmodelling.org/modeler
+  - name: Confluence
+    url: https://confluence.integratedmodelling.org/
+  - name: Chat
+    url: https://chat.integratedmodelling.org/
+  - name: Web
+    url: https://klab.integratedmodelling.org/modeler/
+  - name: CKAN
+    url: https://data.integratedmodelling.org/modeler
 
 assignees:
   - euskalhenriko
