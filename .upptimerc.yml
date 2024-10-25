@@ -17,5 +17,5 @@ assignees:
   - euskalhenriko
 
 status-website:
-  baseUrl: /upptime
+  cname: status.integratedmodelling.org
   name: Integrated Modelling
