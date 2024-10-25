@@ -10,6 +10,8 @@ sites:
     url: https://data.integratedmodelling.org/
   - name: PeopleEA
     url: https://peopleea.integratedmodelling.org/modeler/
+  - name: Observ
+    url: https://observ.integratedmodelling.org/modeler
 
 assignees:
   - euskalhenriko
