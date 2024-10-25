@@ -58,19 +58,19 @@
     "url": "https://peopleea.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/peopleea.integratedmodelling.org.ico",
     "slug": "people-ea",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 2439,
-    "timeDay": 2439,
-    "timeWeek": 2439,
-    "timeMonth": 2439,
-    "timeYear": 2439,
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
+    "time": 2045,
+    "timeDay": 2045,
+    "timeWeek": 2045,
+    "timeMonth": 2045,
+    "timeYear": 2045,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 2
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/observ.integratedmodelling.org.ico",
     "slug": "observ",
     "status": "down",
-    "uptime": "12.50%",
-    "uptimeDay": "12.50%",
-    "uptimeWeek": "12.50%",
-    "uptimeMonth": "12.50%",
-    "uptimeYear": "12.50%",
+    "uptime": "10.50%",
+    "uptimeDay": "10.50%",
+    "uptimeWeek": "10.50%",
+    "uptimeMonth": "10.50%",
+    "uptimeYear": "10.50%",
     "time": 736,
     "timeDay": 736,
     "timeWeek": 736,
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-10-25": 6
+      "2024-10-25": 8
     }
   }
 ]
