@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Hub
-    url: https://intedmodelling.org/hub/
+    url: https://integratedmodelling.org/hub/
   - name: k.Explorer
     url: https://integratedmodelling.org/modeler/
   - name: Data
