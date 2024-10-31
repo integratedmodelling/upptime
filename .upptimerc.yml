@@ -13,7 +13,7 @@ sites:
   - name: CKAN
     url: https://data.integratedmodelling.org/
   - name: Caliper
-    url: https://caliper.integratedmodelling.org/
+    url: https://caliper.integratedmodelling.org/caliper/browse/showvoc
   - name: ARIES for SEEA remote engine
     url: https://klab.officialstatistics.org/modeler/
   - name: PeopleEA remote engine
