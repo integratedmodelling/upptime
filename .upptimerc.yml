@@ -12,7 +12,21 @@ sites:
     url: https://klab.integratedmodelling.org/
   - name: CKAN
     url: https://data.integratedmodelling.org/
-
+  - name: Caliper
+    url: https://caliper.integratedmodelling.org/
+  - name: ARIES for SEEA remote engine
+    url: https://klab.officialstatistics.org/modeler/
+  - name: PeopleEA remote engine
+    url: https://peopleea.integratedmodelling.org/modeler/
+  - name: NBSOIL remote engine
+    url: https://nbsoil.integratedmodelling.org/modeler/
+  - name: HeCo Invest remote engine
+    url: https://hecoinvest.integratedmodelling.org/modeler/ 
+  - name: HeCo Invest remote engine
+    url: https://hecoinvest.integratedmodelling.org/modeler/ 
+  - name: Urdaibai app remote engine
+    url: https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en
+    
 assignees:
   - euskalhenriko
 
