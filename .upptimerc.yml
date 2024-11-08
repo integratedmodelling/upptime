@@ -24,6 +24,12 @@ sites:
     url: https://hecoinvest.integratedmodelling.org/modeler/ 
   - name: Urdaibai app remote engine
     url: https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en
+  - name: Weather node
+    url: https://knowledge.integratedmodelling.org/weather/
+  - name: Geo node
+    url: https://knowledge.integratedmodelling.org/geo/
+  - name: Stats node
+    url: https://knowledge.integratedmodelling.org/stats/
     
 assignees:
   - euskalhenriko
