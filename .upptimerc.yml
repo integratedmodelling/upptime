@@ -22,8 +22,6 @@ sites:
     url: https://nbsoil.integratedmodelling.org/modeler/
   - name: HeCo Invest remote engine
     url: https://hecoinvest.integratedmodelling.org/modeler/ 
-  - name: HeCo Invest remote engine
-    url: https://hecoinvest.integratedmodelling.org/modeler/ 
   - name: Urdaibai app remote engine
     url: https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en
     
