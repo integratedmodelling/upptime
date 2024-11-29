@@ -10,6 +10,8 @@ sites:
     url: https://chat.integratedmodelling.org/
   - name: Web
     url: https://klab.integratedmodelling.org/
+  - name: Production Geoserver
+    url: https://integratedmodelling.org/geoserver/    
   - name: CKAN
     url: https://data.integratedmodelling.org/
   - name: Caliper
@@ -30,8 +32,6 @@ sites:
     url: https://knowledge.integratedmodelling.org/geo/
   - name: Stats node
     url: https://knowledge.integratedmodelling.org/stats/
-  - name: Production Geoserver
-    url: https://integratedmodelling.org/geoserver/
     
 assignees:
   - euskalhenriko
