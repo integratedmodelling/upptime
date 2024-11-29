@@ -30,6 +30,8 @@ sites:
     url: https://knowledge.integratedmodelling.org/geo/
   - name: Stats node
     url: https://knowledge.integratedmodelling.org/stats/
+  - name: Production Geoserver
+    url: https://integratedmodelling.org/geoserver/
     
 assignees:
   - euskalhenriko
