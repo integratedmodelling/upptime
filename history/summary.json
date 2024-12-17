@@ -4,10 +4,10 @@
     "url": "https://integratedmodelling.org/hub/",
     "icon": "https://icons.duckduckgo.com/ip3/integratedmodelling.org.ico",
     "slug": "hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 522,
@@ -16,6 +16,7 @@
     "timeMonth": 532,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2024-12-17": 1,
       "2024-11-18": 16,
       "2024-10-31": 18,
       "2024-10-26": 19
@@ -26,10 +27,10 @@
     "url": "https://confluence.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.integratedmodelling.org.ico",
     "slug": "confluence",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 673,
@@ -38,6 +39,7 @@
     "timeMonth": 690,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2024-12-17": 1,
       "2024-10-31": 17,
       "2024-10-26": 18
     }
@@ -47,10 +49,10 @@
     "url": "https://chat.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.integratedmodelling.org.ico",
     "slug": "chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 1002,
@@ -59,6 +61,7 @@
     "timeMonth": 1045,
     "timeYear": 1002,
     "dailyMinutesDown": {
+      "2024-12-17": 1,
       "2024-11-25": 30,
       "2024-10-31": 17,
       "2024-10-28": 14,
@@ -70,10 +73,10 @@
     "url": "https://klab.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/klab.integratedmodelling.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 861,
@@ -82,6 +85,7 @@
     "timeMonth": 872,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2024-12-17": 1,
       "2024-11-25": 30,
       "2024-10-31": 16,
       "2024-10-28": 13,
@@ -94,9 +98,9 @@
     "url": "https://integratedmodelling.org/geoserver/",
     "icon": "https://icons.duckduckgo.com/ip3/integratedmodelling.org.ico",
     "slug": "production-geoserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +109,18 @@
     "timeWeek": 247,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "CKAN",
     "url": "https://data.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/data.integratedmodelling.org.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -124,6 +130,7 @@
     "timeMonth": 631,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-10-31": 16,
       "2024-10-26": 13,
       "2024-10-25": 1
@@ -134,9 +141,9 @@
     "url": "https://caliper.integratedmodelling.org/caliper/browse/showvoc",
     "icon": "https://icons.duckduckgo.com/ip3/caliper.integratedmodelling.org.ico",
     "slug": "caliper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -146,6 +153,7 @@
     "timeMonth": 899,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-11-08": 45,
       "2024-10-31": 23
     }
@@ -179,18 +187,19 @@
     "url": "https://peopleea.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/peopleea.integratedmodelling.org.ico",
     "slug": "people-ea-remote-engine",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 483,
     "timeDay": 498,
     "timeWeek": 503,
     "timeMonth": 499,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-12-03": 159,
       "2024-12-02": 21,
       "2024-11-24": 32,
@@ -206,18 +215,19 @@
     "url": "https://nbsoil.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/nbsoil.integratedmodelling.org.ico",
     "slug": "nbsoil-remote-engine",
-    "status": "up",
-    "uptime": "88.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "88.95%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.06%",
-    "uptimeYear": "88.86%",
+    "uptimeYear": "88.95%",
     "time": 523,
     "timeDay": 511,
     "timeWeek": 483,
     "timeMonth": 505,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-12-03": 159,
       "2024-12-02": 21,
       "2024-11-29": 777,
@@ -237,9 +247,9 @@
     "url": "https://hecoinvest.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/hecoinvest.integratedmodelling.org.ico",
     "slug": "he-co-invest-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.55%",
@@ -249,6 +259,7 @@
     "timeMonth": 478,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-12-05": 34,
       "2024-12-03": 159,
       "2024-11-24": 32,
@@ -264,9 +275,9 @@
     "url": "https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en",
     "icon": "https://icons.duckduckgo.com/ip3/euskadi.integratedmodelling.org.ico",
     "slug": "urdaibai-app-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.58%",
@@ -276,6 +287,7 @@
     "timeMonth": 543,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-12-03": 159,
       "2024-12-02": 21,
       "2024-11-24": 32,
@@ -291,9 +303,9 @@
     "url": "https://knowledge.integratedmodelling.org/weather/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "weather-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -302,16 +314,18 @@
     "timeWeek": 428,
     "timeMonth": 471,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Geo node",
     "url": "https://knowledge.integratedmodelling.org/geo/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "geo-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -320,16 +334,18 @@
     "timeWeek": 149,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Stats node",
     "url": "https://knowledge.integratedmodelling.org/stats/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "stats-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -338,6 +354,8 @@
     "timeWeek": 127,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   }
 ]
