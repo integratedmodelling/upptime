@@ -1,7 +1,7 @@
 url: https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en
-status: up
-code: 200
-responseTime: 651
-lastUpdated: 2024-12-17T23:12:27.131Z
+status: down
+code: 503
+responseTime: 479
+lastUpdated: 2024-12-18T08:52:05.807Z
 startTime: 2024-10-31T13:05:55.332Z
 generator: Upptime <https://github.com/upptime/upptime>
