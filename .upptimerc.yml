@@ -32,9 +32,12 @@ sites:
     url: https://knowledge.integratedmodelling.org/geo/
   - name: Stats node
     url: https://knowledge.integratedmodelling.org/stats/
-    
+  - name: Overpass
+    url: https://knowledge.integratedmodelling.org/overpass/api/status
 assignees:
   - euskalhenriko
+  - kristinaBc3
+  - inigo-cobian
 
 status-website:
   cname: status.integratedmodelling.org
