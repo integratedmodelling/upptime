@@ -1,7 +1,7 @@
 url: https://nbsoil.integratedmodelling.org/modeler/
-status: up
-code: 200
-responseTime: 688
-lastUpdated: 2025-03-19T10:51:19.508Z
+status: down
+code: 503
+responseTime: 15536
+lastUpdated: 2025-03-19T14:58:13.372Z
 startTime: 2024-10-31T13:05:53.490Z
 generator: Upptime <https://github.com/upptime/upptime>
