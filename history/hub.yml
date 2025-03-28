@@ -1,7 +1,7 @@
 url: https://integratedmodelling.org/hub/
-status: up
-code: 200
-responseTime: 670
-lastUpdated: 2025-03-27T23:13:22.661Z
+status: down
+code: 502
+responseTime: 456
+lastUpdated: 2025-03-28T10:58:42.202Z
 startTime: 2024-10-25T10:15:02.127Z
 generator: Upptime <https://github.com/upptime/upptime>
