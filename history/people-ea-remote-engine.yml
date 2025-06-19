@@ -1,7 +1,7 @@
 url: https://peopleea.integratedmodelling.org/modeler/
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2025-06-18T23:13:53.124Z
+status: down
+code: 503
+responseTime: 1440
+lastUpdated: 2025-06-19T06:44:54.489Z
 startTime: 2024-10-31T13:05:52.641Z
 generator: Upptime <https://github.com/upptime/upptime>
