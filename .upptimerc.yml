@@ -20,6 +20,8 @@ sites:
     url: https://klab.officialstatistics.org/modeler/
   - name: PeopleEA remote engine
     url: https://peopleea.integratedmodelling.org/modeler/
+  - name: WEED remote engine
+    url: https://weed.integratedmodelling.org/modeler/
   - name: NBSOIL remote engine
     url: https://nbsoil.integratedmodelling.org/modeler/
   - name: HeCo Invest remote engine
@@ -38,7 +40,8 @@ assignees:
   - euskalhenriko
   - kristinaBc3
   - inigo-cobian
+  - AM1729
 
 status-website:
   cname: status.integratedmodelling.org
-  name: Integrated Modelling
+  name: Integrated Modelling Status
