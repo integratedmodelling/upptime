@@ -1,7 +1,7 @@
 url: https://caliper.integratedmodelling.org/caliper/browse/showvoc
-status: up
-code: 200
-responseTime: 985
-lastUpdated: 2025-10-15T23:12:24.130Z
+status: down
+code: 502
+responseTime: 453
+lastUpdated: 2025-10-16T10:13:45.037Z
 startTime: 2024-10-31T13:05:47.497Z
 generator: Upptime <https://github.com/upptime/upptime>
