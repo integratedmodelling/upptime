@@ -1,7 +1,7 @@
 url: https://knowledge.integratedmodelling.org/stats/
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2025-10-18T23:13:42.170Z
+status: down
+code: 500
+responseTime: 154
+lastUpdated: 2025-10-19T05:44:14.688Z
 startTime: 2024-11-08T10:25:51.866Z
 generator: Upptime <https://github.com/upptime/upptime>
