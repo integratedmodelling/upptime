@@ -1,7 +1,7 @@
 url: https://weed.integratedmodelling.org/modeler/
-status: up
-code: 200
-responseTime: 414
-lastUpdated: 2025-11-01T23:12:24.131Z
+status: down
+code: 503
+responseTime: 1533
+lastUpdated: 2025-11-02T19:21:35.535Z
 startTime: 2025-06-24T10:07:11.986Z
 generator: Upptime <https://github.com/upptime/upptime>
