@@ -28,6 +28,10 @@ sites:
     url: https://hecoinvest.integratedmodelling.org/modeler/ 
   - name: Urdaibai app remote engine
     url: https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en
+  - name: Mijares app remote engine
+    url: https://mijares.integratedmodelling.org/modeler/?app=urdaibai.en
+  - name: Observ app remote engine
+    url: https://observ.integratedmodelling.org/modeler/?app=urdaibai.en
   - name: Weather node
     url: https://knowledge.integratedmodelling.org/weather/
   - name: Geo node
