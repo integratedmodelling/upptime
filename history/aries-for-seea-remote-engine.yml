@@ -1,7 +1,7 @@
 url: https://klab.officialstatistics.org/modeler/
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2025-11-18T11:52:07.737Z
+status: down
+code: 500
+responseTime: 74
+lastUpdated: 2025-11-18T12:08:36.475Z
 startTime: 2024-10-31T13:05:51.818Z
 generator: Upptime <https://github.com/upptime/upptime>
