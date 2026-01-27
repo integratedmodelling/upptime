@@ -1,7 +1,7 @@
 url: https://knowledge.integratedmodelling.org/weather/
-status: up
-code: 200
-responseTime: 387
-lastUpdated: 2026-01-26T23:17:18.389Z
+status: down
+code: 502
+responseTime: 9873
+lastUpdated: 2026-01-27T11:59:04.883Z
 startTime: 2024-11-08T10:25:50.704Z
 generator: Upptime <https://github.com/upptime/upptime>
