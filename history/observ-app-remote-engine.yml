@@ -1,7 +1,7 @@
 url: https://observ.integratedmodelling.org/modeler/?app=urdaibai.en
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2026-01-26T23:17:17.820Z
+status: down
+code: 503
+responseTime: 408
+lastUpdated: 2026-01-27T17:15:16.971Z
 startTime: 2025-11-06T10:58:01.441Z
 generator: Upptime <https://github.com/upptime/upptime>
