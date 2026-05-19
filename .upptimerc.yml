@@ -42,8 +42,8 @@ sites:
     url: https://knowledge.integratedmodelling.org/overpass/api/status
 assignees:
   - euskalhenriko
-  - kristinaBc3
-  - inigo-cobian
+  #- kristinaBc3
+  #- inigo-cobian
   - AM1729
 
 status-website:
