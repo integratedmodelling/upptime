@@ -1,7 +1,7 @@
 url: https://knowledge.integratedmodelling.org/overpass/api/status
-status: down
-code: 502
-responseTime: 428
-lastUpdated: 2026-05-27T23:56:43.527Z
+status: up
+code: 200
+responseTime: 624
+lastUpdated: 2026-05-28T09:01:40.417Z
 startTime: 2025-02-20T11:21:13.078Z
 generator: Upptime <https://github.com/upptime/upptime>
