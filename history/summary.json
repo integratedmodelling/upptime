@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.integratedmodelling.org.ico",
     "slug": "ckan",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -513,13 +513,13 @@
     "url": "https://knowledge.integratedmodelling.org/weather/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "weather-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.70%",
-    "time": 546,
+    "time": 529,
     "timeDay": 397,
     "timeWeek": 470,
     "timeMonth": 506,
@@ -532,7 +532,8 @@
       "2025-12-26": 124,
       "2026-01-23": 579,
       "2026-01-27": 124,
-      "2026-05-28": 240
+      "2026-05-28": 240,
+      "2026-06-01": 24
     }
   },
   {
@@ -540,13 +541,13 @@
     "url": "https://knowledge.integratedmodelling.org/geo/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "geo-node",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.71%",
-    "time": 148,
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.70%",
+    "time": 144,
     "timeDay": 402,
     "timeWeek": 477,
     "timeMonth": 430,
@@ -560,7 +561,8 @@
       "2025-12-26": 115,
       "2026-01-23": 579,
       "2026-01-27": 124,
-      "2026-05-28": 231
+      "2026-05-28": 231,
+      "2026-06-01": 18
     }
   },
   {
@@ -568,13 +570,13 @@
     "url": "https://knowledge.integratedmodelling.org/stats/",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "stats-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.73%",
-    "time": 218,
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.72%",
+    "time": 202,
     "timeDay": 552,
     "timeWeek": 4196,
     "timeMonth": 1414,
@@ -587,7 +589,8 @@
       "2025-12-26": 117,
       "2026-01-23": 579,
       "2026-01-27": 124,
-      "2026-05-28": 227
+      "2026-05-28": 227,
+      "2026-06-01": 10
     }
   },
   {
@@ -595,10 +598,10 @@
     "url": "https://knowledge.integratedmodelling.org/overpass/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.integratedmodelling.org.ico",
     "slug": "overpass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.32%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "86.31%",
     "uptimeMonth": "96.85%",
     "uptimeYear": "99.51%",
     "time": 227,
@@ -614,7 +617,8 @@
       "2026-01-23": 579,
       "2026-01-27": 124,
       "2026-05-28": 765,
-      "2026-05-27": 614
+      "2026-05-27": 614,
+      "2026-06-01": 1
     }
   }
 ]
