@@ -158,9 +158,9 @@
     "url": "https://data.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/data.integratedmodelling.org.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
@@ -177,7 +177,8 @@
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1094,
-      "2026-03-31": 725
+      "2026-03-31": 725,
+      "2026-06-07": 0
     }
   },
   {
