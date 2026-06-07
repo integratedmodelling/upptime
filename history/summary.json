@@ -158,16 +158,16 @@
     "url": "https://data.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/data.integratedmodelling.org.ico",
     "slug": "ckan",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
-    "time": 707,
-    "timeDay": 557,
-    "timeWeek": 642,
-    "timeMonth": 681,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "98.81%",
+    "time": 708,
+    "timeDay": 725,
+    "timeWeek": 673,
+    "timeMonth": 688,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-10-16": 11,
@@ -178,7 +178,7 @@
       "2026-01-24": 1440,
       "2026-01-23": 1094,
       "2026-03-31": 725,
-      "2026-06-07": 0
+      "2026-06-07": 194
     }
   },
   {
