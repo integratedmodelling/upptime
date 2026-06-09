@@ -32,17 +32,17 @@
     "url": "https://confluence.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.integratedmodelling.org.ico",
     "slug": "confluence",
-    "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "status": "up",
+    "uptime": "98.94%",
+    "uptimeDay": "72.15%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "98.47%",
     "time": 944,
-    "timeDay": 34291,
-    "timeWeek": 5596,
-    "timeMonth": 1824,
-    "timeYear": 1015,
+    "timeDay": 17552,
+    "timeWeek": 4998,
+    "timeMonth": 1793,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-07-08": 154,
       "2025-07-21": 658,
@@ -71,7 +71,7 @@
       "2026-04-12": 3,
       "2026-04-13": 231,
       "2026-04-23": 38,
-      "2026-06-09": 0
+      "2026-06-09": 401
     }
   },
   {
