@@ -215,17 +215,17 @@
     "url": "https://klab.officialstatistics.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/klab.officialstatistics.org.ico",
     "slug": "aries-for-seea-remote-engine",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "87.77%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.78%",
-    "time": 634,
-    "timeDay": 10100,
-    "timeWeek": 2895,
-    "timeMonth": 1055,
-    "timeYear": 684,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.75%",
+    "time": 633,
+    "timeDay": 6879,
+    "timeWeek": 2622,
+    "timeMonth": 1036,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-06-19": 13,
       "2025-06-24": 6,
@@ -242,7 +242,7 @@
       "2026-01-23": 541,
       "2026-02-27": 44,
       "2026-05-19": 32,
-      "2026-06-15": 176
+      "2026-06-15": 324
     }
   },
   {
