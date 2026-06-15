@@ -4,10 +4,10 @@
     "url": "https://integratedmodelling.org/hub/",
     "icon": "https://icons.duckduckgo.com/ip3/integratedmodelling.org.ico",
     "slug": "hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.80%",
     "time": 699,
@@ -25,7 +25,8 @@
       "2025-11-25": 102,
       "2025-12-26": 167,
       "2026-01-23": 11,
-      "2026-06-11": 79
+      "2026-06-11": 79,
+      "2026-06-15": 1
     }
   },
   {
@@ -160,17 +161,17 @@
     "url": "https://data.integratedmodelling.org/",
     "icon": "https://icons.duckduckgo.com/ip3/data.integratedmodelling.org.ico",
     "slug": "ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "95.81%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "98.73%",
-    "time": 708,
-    "timeDay": 732,
-    "timeWeek": 647,
-    "timeMonth": 679,
-    "timeYear": 732,
+    "time": 714,
+    "timeDay": 2012,
+    "timeWeek": 941,
+    "timeMonth": 753,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-10-16": 11,
       "2025-11-21": 203,
@@ -181,7 +182,8 @@
       "2026-01-23": 1094,
       "2026-03-31": 725,
       "2026-06-07": 194,
-      "2026-06-12": 422
+      "2026-06-12": 422,
+      "2026-06-15": 0
     }
   },
   {
@@ -371,7 +373,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hecoinvest.integratedmodelling.org.ico",
     "slug": "he-co-invest-remote-engine",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
