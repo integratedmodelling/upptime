@@ -216,11 +216,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/klab.officialstatistics.org.ico",
     "slug": "aries-for-seea-remote-engine",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.75%",
+    "uptimeDay": "87.77%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
     "time": 634,
     "timeDay": 10100,
     "timeWeek": 2895,
@@ -242,7 +242,7 @@
       "2026-01-23": 541,
       "2026-02-27": 44,
       "2026-05-19": 32,
-      "2026-06-15": 0
+      "2026-06-15": 176
     }
   },
   {
