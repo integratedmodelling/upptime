@@ -13,7 +13,7 @@
     "time": 724,
     "timeDay": 978,
     "timeWeek": 971,
-    "timeMonth": 991,
+    "timeMonth": 987,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2025-08-12": 6,
@@ -43,7 +43,7 @@
     "time": 952,
     "timeDay": 726,
     "timeWeek": 745,
-    "timeMonth": 748,
+    "timeMonth": 745,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2025-07-21": 658,
@@ -92,7 +92,7 @@
     "time": 938,
     "timeDay": 1165,
     "timeWeek": 1084,
-    "timeMonth": 1078,
+    "timeMonth": 1069,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-08-29": 16,
@@ -123,7 +123,7 @@
     "time": 862,
     "timeDay": 1061,
     "timeWeek": 1098,
-    "timeMonth": 1033,
+    "timeMonth": 1031,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2025-08-12": 5,
@@ -151,7 +151,7 @@
     "time": 356,
     "timeDay": 1032,
     "timeWeek": 972,
-    "timeMonth": 958,
+    "timeMonth": 948,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-10-16": 11,
@@ -171,7 +171,7 @@
     "uptime": "99.04%",
     "uptimeDay": "95.82%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "97.50%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "98.49%",
     "time": 718,
     "timeDay": 640,
@@ -209,7 +209,7 @@
     "time": 1046,
     "timeDay": 1588,
     "timeWeek": 1289,
-    "timeMonth": 1303,
+    "timeMonth": 1295,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2025-09-02": 25,
@@ -237,7 +237,7 @@
     "time": 630,
     "timeDay": 465,
     "timeWeek": 430,
-    "timeMonth": 432,
+    "timeMonth": 433,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -271,7 +271,7 @@
     "time": 631,
     "timeDay": 476,
     "timeWeek": 503,
-    "timeMonth": 483,
+    "timeMonth": 480,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -308,7 +308,7 @@
     "time": 573,
     "timeDay": 498,
     "timeWeek": 482,
-    "timeMonth": 491,
+    "timeMonth": 488,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2025-08-07": 703,
@@ -350,7 +350,7 @@
     "time": 635,
     "timeDay": 470,
     "timeWeek": 452,
-    "timeMonth": 478,
+    "timeMonth": 475,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2025-07-27": 19,
@@ -390,7 +390,7 @@
     "time": 507,
     "timeDay": 482,
     "timeWeek": 469,
-    "timeMonth": 480,
+    "timeMonth": 476,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2025-07-27": 19,
@@ -427,7 +427,7 @@
     "time": 513,
     "timeDay": 569,
     "timeWeek": 485,
-    "timeMonth": 488,
+    "timeMonth": 485,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -457,15 +457,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mijares.integratedmodelling.org.ico",
     "slug": "mijares-app-remote-engine",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "98.17%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 531,
     "timeDay": 603,
     "timeWeek": 500,
-    "timeMonth": 486,
+    "timeMonth": 483,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-11-20": 6,
@@ -492,7 +492,7 @@
     "time": 626,
     "timeDay": 479,
     "timeWeek": 446,
-    "timeMonth": 459,
+    "timeMonth": 454,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2025-11-18": 53,
@@ -520,7 +520,7 @@
     "time": 552,
     "timeDay": 590,
     "timeWeek": 484,
-    "timeMonth": 477,
+    "timeMonth": 474,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-10-16": 6,
@@ -549,7 +549,7 @@
     "time": 180,
     "timeDay": 465,
     "timeWeek": 436,
-    "timeMonth": 443,
+    "timeMonth": 439,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-10-16": 6,
@@ -578,7 +578,7 @@
     "time": 250,
     "timeDay": 481,
     "timeWeek": 445,
-    "timeMonth": 450,
+    "timeMonth": 446,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-10-19": 6,
@@ -607,7 +607,7 @@
     "time": 259,
     "timeDay": 478,
     "timeWeek": 481,
-    "timeMonth": 501,
+    "timeMonth": 496,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-10-21": 6,
