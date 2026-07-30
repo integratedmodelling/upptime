@@ -440,16 +440,16 @@
     "url": "https://euskadi.integratedmodelling.org/modeler/?app=urdaibai.en",
     "icon": "https://icons.duckduckgo.com/ip3/euskadi.integratedmodelling.org.ico",
     "slug": "urdaibai-app-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
     "time": 515,
-    "timeDay": 557,
-    "timeWeek": 569,
-    "timeMonth": 493,
+    "timeDay": 490,
+    "timeWeek": 546,
+    "timeMonth": 489,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -472,7 +472,8 @@
       "2026-07-16": 5,
       "2026-07-15": 26,
       "2026-07-18": 31,
-      "2026-07-29": 61
+      "2026-07-29": 61,
+      "2026-07-30": 1
     }
   },
   {
