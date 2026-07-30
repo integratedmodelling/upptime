@@ -40,7 +40,7 @@
     "uptime": "98.54%",
     "uptimeDay": "92.43%",
     "uptimeWeek": "58.42%",
-    "uptimeMonth": "89.82%",
+    "uptimeMonth": "90.03%",
     "uptimeYear": "97.78%",
     "time": 959,
     "timeDay": 809,
@@ -244,17 +244,17 @@
     "url": "https://klab.officialstatistics.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/klab.officialstatistics.org.ico",
     "slug": "aries-for-seea-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.74%",
     "time": 629,
-    "timeDay": 422,
-    "timeWeek": 466,
-    "timeMonth": 434,
-    "timeYear": 669,
+    "timeDay": 292,
+    "timeWeek": 428,
+    "timeMonth": 426,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-06": 20,
       "2025-09-01": 6,
@@ -270,7 +270,8 @@
       "2026-02-27": 44,
       "2026-05-19": 32,
       "2026-06-15": 324,
-      "2026-07-08": 82
+      "2026-07-08": 82,
+      "2026-07-30": 2
     }
   },
   {
@@ -278,16 +279,16 @@
     "url": "https://peopleea.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/peopleea.integratedmodelling.org.ico",
     "slug": "people-ea-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.75%",
     "time": 591,
-    "timeDay": 563,
-    "timeWeek": 554,
-    "timeMonth": 499,
+    "timeDay": 580,
+    "timeWeek": 560,
+    "timeMonth": 502,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -309,7 +310,8 @@
       "2026-07-16": 5,
       "2026-07-15": 45,
       "2026-07-18": 50,
-      "2026-07-29": 80
+      "2026-07-29": 80,
+      "2026-07-30": 2
     }
   },
   {
@@ -317,16 +319,16 @@
     "url": "https://weed.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/weed.integratedmodelling.org.ico",
     "slug": "weed-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.45%",
     "time": 571,
-    "timeDay": 558,
-    "timeWeek": 561,
-    "timeMonth": 487,
+    "timeDay": 505,
+    "timeWeek": 543,
+    "timeMonth": 485,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-08-07": 703,
@@ -353,7 +355,8 @@
       "2026-07-16": 5,
       "2026-07-15": 41,
       "2026-07-18": 45,
-      "2026-07-29": 75
+      "2026-07-29": 75,
+      "2026-07-30": 2
     }
   },
   {
@@ -361,16 +364,16 @@
     "url": "https://nbsoil.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/nbsoil.integratedmodelling.org.ico",
     "slug": "nbsoil-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.70%",
     "time": 635,
-    "timeDay": 625,
-    "timeWeek": 543,
-    "timeMonth": 477,
+    "timeDay": 573,
+    "timeWeek": 535,
+    "timeMonth": 476,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2025-08-06": 20,
@@ -394,7 +397,8 @@
       "2026-07-16": 5,
       "2026-07-15": 36,
       "2026-07-18": 40,
-      "2026-07-29": 71
+      "2026-07-29": 71,
+      "2026-07-30": 2
     }
   },
   {
@@ -402,15 +406,15 @@
     "url": "https://hecoinvest.integratedmodelling.org/modeler/",
     "icon": "https://icons.duckduckgo.com/ip3/hecoinvest.integratedmodelling.org.ico",
     "slug": "he-co-invest-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.66%",
     "time": 509,
-    "timeDay": 552,
-    "timeWeek": 537,
+    "timeDay": 518,
+    "timeWeek": 527,
     "timeMonth": 472,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -432,7 +436,8 @@
       "2026-07-16": 5,
       "2026-07-15": 31,
       "2026-07-18": 36,
-      "2026-07-29": 66
+      "2026-07-29": 66,
+      "2026-07-30": 1
     }
   },
   {
@@ -441,11 +446,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/euskadi.integratedmodelling.org.ico",
     "slug": "urdaibai-app-remote-engine",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.76%",
+    "uptime": "98.93%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.74%",
     "time": 515,
     "timeDay": 490,
     "timeWeek": 546,
@@ -473,7 +478,7 @@
       "2026-07-15": 26,
       "2026-07-18": 31,
       "2026-07-29": 61,
-      "2026-07-30": 1
+      "2026-07-30": 97
     }
   },
   {
@@ -481,16 +486,16 @@
     "url": "https://mijares.integratedmodelling.org/modeler/?app=urdaibai.en",
     "icon": "https://icons.duckduckgo.com/ip3/mijares.integratedmodelling.org.ico",
     "slug": "mijares-app-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "96.11%",
+    "uptimeDay": "96.05%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.73%",
     "time": 531,
-    "timeDay": 560,
-    "timeWeek": 569,
-    "timeMonth": 498,
+    "timeDay": 574,
+    "timeWeek": 573,
+    "timeMonth": 501,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-11-20": 6,
@@ -502,7 +507,8 @@
       "2026-07-16": 5,
       "2026-07-15": 21,
       "2026-07-18": 26,
-      "2026-07-29": 56
+      "2026-07-29": 56,
+      "2026-07-30": 1
     }
   },
   {
@@ -510,17 +516,17 @@
     "url": "https://observ.integratedmodelling.org/modeler/?app=urdaibai.en",
     "icon": "https://icons.duckduckgo.com/ip3/observ.integratedmodelling.org.ico",
     "slug": "observ-app-remote-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "96.45%",
+    "uptimeDay": "96.40%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.79%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.70%",
-    "time": 619,
-    "timeDay": 545,
-    "timeWeek": 521,
-    "timeMonth": 464,
-    "timeYear": 619,
+    "time": 618,
+    "timeDay": 509,
+    "timeWeek": 512,
+    "timeMonth": 463,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-11-18": 53,
       "2025-11-21": 200,
@@ -532,7 +538,8 @@
       "2026-07-16": 5,
       "2026-07-15": 16,
       "2026-07-18": 21,
-      "2026-07-29": 51
+      "2026-07-29": 51,
+      "2026-07-30": 1
     }
   },
   {
